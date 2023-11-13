@@ -1,0 +1,11 @@
+4.54	: (tf) 	 Frame thickness in mm
+8.68	: (dhinge) 	 Diameter of the hinge in mm
+432.08	: 390.08	: (h2hdist[0,1]) 	 Hinge to hinge distance in mm
+441.36	: 399.36	: 195.0	: (lframe[0,1,2]) 	 Length of frame in mm
+195.0	: 147.0	: 193.0	: (wframe[0,1,2]) 	 Width of frame in mm
+9	: 2	: (nxy[0][0,1]) 	 nx and ny 
+4	: 3	: (nxy[1][0,1]) 	 nx and ny 
+2	: 4	: (nxy[2][0,1]) 	 nx and ny 
+18	: 1	: (ncp[0][0,1]) 	 ncellspanel and choice 
+12	: 2	: (ncp[1][0,1]) 	 ncellspanel and choice 
+8	: 2	: (ncp[2][0,1]) 	 ncellspanel and choice 

@@ -1,0 +1,3 @@
+92	: (lcell) 	      Length of cell in mm
+45	: (wcell) 	      Width of cell in mm	
+1.2	: (powcell) 	  Power of cell in Watts

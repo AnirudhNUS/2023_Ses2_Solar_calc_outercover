@@ -1,0 +1,6 @@
+128		: (ncells) 	 Total number of cells
+153.6		: (ptot) 	 Total power generated in W 
+2897.62		: (vtot) 	 Total volume taken up in cm^3 
+8.52		: (mtot) 	 Total mass in kg 
+1.928	: 1.747	: (lenopen[0,1]) 	 Length of opened assembly in m
+0.201	: 0.153	: (widopen[0,1]) 	 Width of opened assembly in m

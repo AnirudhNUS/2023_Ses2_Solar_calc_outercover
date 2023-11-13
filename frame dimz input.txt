@@ -1,0 +1,8 @@
+3	: (rho) 	     Density of panel material in mg/mm^3
+3	: (tf) 		     Frame thickness in mm
+4	: (clf) 	     Clearance for cell frame in mm
+6.4	: (clmside)          Clearance for mechanism on either side in mm
+0.2	: (clhi) 	     Clearance for hinge on inner side in mm
+0.3	: (clho) 	     Clearance for hinge on outer side in mm
+12	: (clmcen) 	     Clearance for central actuation mechanism in mm
+1	: (clcell) 	     Clearance between adjacent cells in mm
